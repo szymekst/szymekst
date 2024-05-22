@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my personal website/blog**
 
-- 📫 How to reach me **praca.szymonstawowy@gmail.com**
-
 - 🌱 I’m currently and still learning **React / GatsbyJS / React Native**
 
 - 💬 Ask me about **react, gatsby, tailwind**
