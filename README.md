@@ -3,17 +3,23 @@
 
 - 🔭 I’m currently working on **my personal website/blog**
 
-- 🌱 I’m currently and still learning **React / GatsbyJS / React Native**
+- 🌱 I’m currently and still learning **React / ~~GatsbyJS~~ &rarr; Next.JS / React Native**
 
-- 💬 Ask me about **react, gatsby, tailwind**
+- 💬 Ask me about **react, tailwind**
 
 - ⚡ Fun fact **programming: solving problems that didn't exist before.**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
-  </a> 
+  </a>
+  &rarr
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+</p>
+<p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
