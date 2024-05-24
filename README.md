@@ -14,7 +14,7 @@
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
   </a>
-  &rarr
+  &rarr;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
