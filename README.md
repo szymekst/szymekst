@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">A passionate and self-taught frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **my personal website/blog**
+- 🔭 I’m currently working on **my personal website with blog**
 
-- 🌱 I’m currently and still learning **React / ~~GatsbyJS~~ &rarr; Next.JS / React Native**
+- 🌱 I’m currently and still learning **React / ~~GatsbyJS~~ &rarr; Next.JS**
 
 - 💬 Ask me about **react, tailwind**
 
@@ -14,9 +14,9 @@
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
   </a>
-  &rarr;
+  &rArr;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   </a>
 </p>
 <p align="left"> 
@@ -37,9 +37,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
