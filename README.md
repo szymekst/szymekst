@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">A passionate and self-taught frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **my personal website with blog**
+- 🔭 I’m currently working on ~~**my personal website with blog**~~
 
 - 🌱 I’m currently and still learning **React / ~~GatsbyJS~~ &rarr; Next.JS**
 
