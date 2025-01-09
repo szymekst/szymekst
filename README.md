@@ -1,25 +1,19 @@
-<h1 align="center">Hi 👋, I'm Szymon</h1>
+<h1 align="center">Hi 👋<br>I'm Szymon</h1>
 <h3 align="center">A passionate and self-taught frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on ~~**my personal website with blog**~~
+- 🔭 I’m currently working on **Quiz App using Open Trivia API**
 
-- 🌱 I’m currently and still learning **React / ~~GatsbyJS~~ &rarr; Next.JS**
+- 🌱 I'm improving my skills in **React and Next.JS**
 
-- 💬 Ask me about **react, tailwind**
+- 💬 Ask me about **react, tailwind, nextjs**
 
 - ⚡ Fun fact **programming: solving problems that didn't exist before.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
-  </a>
-  &rArr;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="nextjs-logo.svg" alt="nextjs" width="40" height="40"/>
   </a>
-</p>
-<p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
